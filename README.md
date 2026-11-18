@@ -286,7 +286,7 @@ python tests/test_database.py
 
 | Role | Name |
 |------|------|
-| Developer | Vansh |
+| Developer | Vanshika | Pallavi
 | Framework | Python 3 + Tkinter |
 | Charting | Matplotlib |
 | Database | SQLite 3 (via Python `sqlite3` stdlib) |
